@@ -7,7 +7,7 @@ to start with this model, you will need to install mediapipe by using your termi
        !pip install mediapipe 
        
  After that you will be able to run the code and get some result like the following:
- <center><img src="output-sample/output.gif"></center>
+ <center><img src="output.gif"></center>
 
 
 
